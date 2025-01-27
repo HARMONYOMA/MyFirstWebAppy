@@ -1,3 +1,3 @@
 <?php
-echo "This is the :PHP web app";
+echo "This is Harmony:PHP web app";
 ?>
